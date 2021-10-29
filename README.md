@@ -1,5 +1,5 @@
 # catbot-database
-A database for catbot Walkbot paths, custom configs, etc.
+Most likely will be used for engineer bot nav for engihook.
 
 Be sure to put you nav meshes into your /tf/maps/ folder.
 
